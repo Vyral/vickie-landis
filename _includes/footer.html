@@ -16,8 +16,11 @@
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
-						<br><span>{{site.data.settings.client.license_number }}
+						<br>{{site.data.settings.client.license_number }}
 							{% endif %}
+							{% if site.data.settings.client.title != null %}
+							<br>{{site.data.settings.client.title }}
+								{% endif %}
 	        </div>
 	        <div class="col-sm-4">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
