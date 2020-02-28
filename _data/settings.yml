@@ -1,5 +1,5 @@
 audit_header: false
-title: Quakertown Real Estate Video Blog with Vickie Landis Rentsel
+title: Real Estate Video Blog with Vickie Landis Rentsel
 description: Our mission at Vickie Landis Rentsel Team is to be your best resource for Quakertown real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Vickie Landis Rentsel Team, your professional Quakertown Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -27,15 +27,15 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Vickielandis@gmail.com
+  email: LandisRentselTeam@gmail.com
   url: http://nextkeymove.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
-
+  second_CTA_URL: https://nextkeymove.kw.com/search
+  
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Quakertown Home Worth?"
@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Quakertown Home?"
     CTA_text2: "Search the entire MLS for your Quakertown home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://nextkeymove.kw.com/search
 
 lender:
   show_section: false
