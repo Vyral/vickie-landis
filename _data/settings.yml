@@ -20,7 +20,7 @@ client:
     When you work with THE VICKIE LANDIS RENTSEL TEAM you are getting the combined expertise, energy, and ingenuity of a team of the area's premier Realtors. With 25 years of real estate experience, Vickie has developed proven systems and strategies that simplify the complicated maze of buying and selling real estate.
 
     Specializing in Residential, Commercial and Investment Real Estate, Vickie and her team are committed to empowering each client to make wise informed investment decisions when buying and selling real estate. So, whether you're considering buying your first home or liquidating your real estate investment portfolio... begin with a Consultant. THE VICKIE LANDIS RENTSEL TEAM - Making every move count!
-  brokerage: Keller Williams
+  brokerage: Keller Williams Realty Group
   market: Quakertown
   address: 431 S. West End Blvd Quakertown, PA  18951
   phone: 267-733-0777
@@ -89,7 +89,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: Quakertown Real Estate Video Blog
+  hero_text: Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
