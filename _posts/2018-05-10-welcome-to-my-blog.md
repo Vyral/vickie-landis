@@ -1,8 +1,6 @@
 ---
 youtube_code:
-excerpt: >-
-  Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse
-  pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.
+excerpt:
 enclosure:
 pullquote:
 enclosure_type:
