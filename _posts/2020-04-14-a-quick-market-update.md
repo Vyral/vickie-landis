@@ -21,4 +21,4 @@ youtube_code: FDaIS5cTcMk
 
 &nbsp;
 
-Today I’m sharing a quick real estate market update. Many of you have reached out to us asking what effect the pandemic is having on the real estate industry and how it will impact your home values. Statistically, the most significant thing that has happened is that we’ve had more houses coming off the market, either because sellers decide it’s not the right time to sell or because the home has gone under contract. A ton of properties have gone on hold for the time being. However, even amid a health crisis, homes are still selling and being listed.&nbsp;
+Today I’m sharing a quick real estate market update. Many of you have reached out to us asking what effect the pandemic is having on the real estate industry and how it will impact your home values. Statistically, the most significant thing that has happened is that we’ve had more houses coming off the market, either because sellers decide it’s not the right time to sell or because the home has gone under contract. A ton of properties have gone on hold for the time being. However, even amid a health crisis, homes are still selling and being listed.&nbsp; &nbsp;
