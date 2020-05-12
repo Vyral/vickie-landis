@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your May 2020 Market Update
-date: 2020-05-12 15:47:01
+date: 2020-05-12 15:47:00
 tags:
 excerpt: Here’s how COVID-19 has impacted the real estate process in Pennsylvania.
 enclosure:
@@ -17,9 +17,10 @@ youtube_code: FcTWEf0TsRc
 
 {% include youtube.html %}
 
-<center><em>Here’s how COVID-19 has impacted the real estate process in Pennsylvania. </em></center>
+<center><em>Here&rsquo;s how COVID-19 has impacted the real estate process in Pennsylvania. </em></center>
 
-&nbsp;
+<center>&nbsp;</center>
+
 Since the stay-at-home order was put in place, it became illegal for real estate agents to show properties in person, which has had an obvious impact on home sales. Mind you, homes are still selling, just not at the rate that we would’ve expected given the trending we’d observed prior to the pandemic.&nbsp;
 
 Ours was a seller’s market all through 2019, and it’s still a seller’s market, though with the onset of the virus, many sellers began to pull their properties off the market, and buyers took a step back to assess what was going on.
