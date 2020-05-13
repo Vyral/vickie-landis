@@ -1,10 +1,10 @@
 ---
 layout: post
 title: First Quarter Market Reports
-date: 2020-05-13 17:51:51
+date: 2020-05-13 17:51:00
 tags:
   - Market Update
-excerpt:
+excerpt: Check out a few key metrics from the industry in Q1
 enclosure:
 pullquote:
 enclosure_type: video/mp4
