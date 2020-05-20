@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vickie Landis Rentsel Team - your professional Quakertown Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Vickie Landis Rentsel</managingEditor>
-    <lastBuildDate>2020-02-27 13:22:13 -0600</lastBuildDate>
+    <lastBuildDate>2020-05-20 14:32:02 -0500</lastBuildDate>
     <media:copyright>Vickie Landis Rentsel</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>Vickielandis@gmail.com</itunes:email>
+      <itunes:email>LandisRentselTeam@gmail.com</itunes:email>
       <itunes:name>Vickie Landis Rentsel</itunes:name>
     </itunes:owner>
     <itunes:author>Vickie Landis Rentsel</itunes:author>
@@ -25,47 +25,154 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>A Crash Course on the Science of Properly Disinfecting Surfaces</title>
+        <link>http://localhost:4000/a-crash-course-on-the-science-of-properly-disinfecting-surfaces.html</link>
         
           <category>Home Seller Tips</category>
         
+          <category>Home Buyer Tips</category>
+        
         <author>Vickie Landis Rentsel</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+        <pubDate>2020-05-19 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Recently, we were fortunate enough to be joined by Ken Carfagno, a former mechanical engineer who started his own cleaning company in upstate New York, to discuss proper methods of disinfection—something we could all benefit from right now. Ken, who’s in the process of rebooting his business here in Philly, dropped some serious cleaning science to debunk common misconceptions. As it turns out, the overwhelming majority of us aren’t doing nearly enough when we try to disinfect our homes…
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure: 
 
+2:37 - Ken’s extensive research on coronavirus disinfection, and his shocking conclusion 
 
+4:43 - Cleaning mistake #1: Not fully cleaning the surface first 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+7:40 - Cleaning mistake #2: Not choosing a registered disinfectant
 
-“This is an example of a pull quote”
+9:20 - Cleaning mistake #3: Not selecting the right disinfectant for the right pathogen 
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+10:45 - Cleaning mistake #4: Not following instructions on the label to dilute correctly and wet surfaces long enough 
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+12:58 - Cleaning mistake #5: Not using chemicals correctly (everything you know about bleach is wrong) 
+
+15:22 - Cleaning mistake #6: Cross-contamination from rags or not wearing gloves
+
+16:54 - Cleaning mistake #7: Not using the right pH for a surface and thereby damaging it 
+
+19:22 - Cleaning mistake #8: Mixing chemicals—it could kill you
+
+20:23 - Cleaning mistake #9: Not fully cleaning a surface after you disinfect
+
+22:12 - How to learn more cleaning tips from Ken
+
+We want to give a huge thank you to Ken for sharing his expertise during a time when it’s most needed. As always, if you have questions or concerns regarding real estate, please feel free to reach out by phone or email. We’re here for you. 
+
+ 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Ken Carfagno shares some hard truths about conventional cleaning habits</itunes:subtitle>
         <itunes:author>Vickie Landis Rentsel</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Ken Carfagno shares some hard truths about conventional cleaning habits</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>First Quarter Market Reports</title>
+        <link>http://localhost:4000/first-quarter-market-reports.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Vickie Landis Rentsel</author>
+        <pubDate>2020-05-13 12:51:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+
+
+
+
+
+
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Check out a few key metrics from the industry in Q1</itunes:subtitle>
+        <itunes:author>Vickie Landis Rentsel</itunes:author>
+        <itunes:summary>Check out a few key metrics from the industry in Q1</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your May 2020 Market Update</title>
+        <link>http://localhost:4000/your-may-2020-market-update.html</link>
+        
+        <author>Vickie Landis Rentsel</author>
+        <pubDate>2020-05-12 10:47:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Here&rsquo;s how COVID-19 has impacted the real estate process in Pennsylvania. 
+
+&nbsp;
+
+Since the stay-at-home order was put in place, it became illegal for real estate agents to show properties in person, which has had an obvious impact on home sales. Mind you, homes are still selling, just not at the rate that we would’ve expected given the trending we’d observed prior to the pandemic. 
+
+Ours was a seller’s market all through 2019, and it’s still a seller’s market, though with the onset of the virus, many sellers began to pull their properties off the market, and buyers took a step back to assess what was going on.
+
+“A seller who waits is likely to get lost in the competition of the other listings that flood the market.”
+
+Within the last several weeks, though, buyers have come back to the market, which has become very demanding. We’re getting multiple bids on properties, even in a time when buyers can’t physically preview a property. These are all signs that we need to pay attention to.
+
+According to the governor’s plan to reopen Pennsylvania, as soon as the county you live in turns yellow on the map that tracks infection rates, agents can go back to work, and sellers can let buyers into their homes to preview their properties before they submit an offer.
+
+If you’re a seller who wants to get your property on the market, don’t wait—as soon as the light turns green (or in this case, yellow), buyers will already be lined up at the starting gate before they bust through and snatch up all the properties available for purchase. A seller who waits is likely to get lost in the competition of the other listings that flood the market.
+
+If you’re a buyer who hasn’t already gotten pre-approved for a loan and you haven’t aligned yourself with a real estate professional who can negotiate on your behalf, you need to do that now. You can’t bust through the gates and win the negotiation game if you don’t have the proper foundation laid.
+
+My team and I are here to help you. If you have any questions or need any assistance, reach out to us. We’re happy to give you information and the resources you need so that you’ll be ready when the light turns yellow.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how COVID-19 has impacted the real estate process in Pennsylvania.</itunes:subtitle>
+        <itunes:author>Vickie Landis Rentsel</itunes:author>
+        <itunes:summary>Here’s how COVID-19 has impacted the real estate process in Pennsylvania.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Market Update</title>
+        <link>http://localhost:4000/a-quick-market-update.html</link>
+        
+        <author>Vickie Landis Rentsel</author>
+        <pubDate>2020-04-14 16:03:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I&rsquo;m sharing our latest real estate market update and how the pandemic has impacted it.
+
+ 
+
+Today I’m sharing a quick real estate market update. Many of you have reached out to us asking what effect the pandemic is having on the real estate industry and how it will impact your home values. Statistically, the most significant thing that has happened is that we’ve had more houses coming off the market, either because sellers decide it’s not the right time to sell or because the home has gone under contract. A ton of properties have gone on hold for the time being. However, even amid a health crisis, homes are still selling and being listed.   
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m sharing our latest real estate market update and how the pandemic has impacted it.</itunes:subtitle>
+        <itunes:author>Vickie Landis Rentsel</itunes:author>
+        <itunes:summary>I’m sharing our latest real estate market update and how the pandemic has impacted it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome To My Blog</title>
+        <link>http://localhost:4000/welcome-to-my-blog.html</link>
         
           <category>Market Update</category>
         
@@ -74,47 +181,27 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
           <category>Home Seller Tips</category>
         
         <author>Vickie Landis Rentsel</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2020-03-09 19:00:00 -0500</pubDate>
         <guid></guid>
-        <description>
+        <description>Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+I know what’s happening in the real estate market, specifically pertaining to home values, that will directly affect you.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+So, I’ll be posting two monthly video messages on this blog to keep you updated. 
 
+They will be valuable and useful in helping you stay on top of what’s happening in the community.
 
+Check back because content will be coming soon!
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+I’m excited to keep you updated on what’s happening in the real estate market!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="" length="" type=""/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
         <itunes:author>Vickie Landis Rentsel</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Quakertown, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
