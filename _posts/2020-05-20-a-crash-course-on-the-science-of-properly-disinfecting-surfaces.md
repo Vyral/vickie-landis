@@ -10,8 +10,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bigstock-set-of-cleaning-products-and-d-285890068.jpg
 youtube_code: jR8gXfTvF1c&t
 ---
 
