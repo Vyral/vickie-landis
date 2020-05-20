@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Crash Course on the Science of Properly Disinfecting Surfaces
-date: 2020-05-15 12:00:00
+date: 2020-05-20 00:00:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -17,7 +17,7 @@ youtube_code: jR8gXfTvF1c&t
 
 {% include youtube.html %}
 
-Recently, we were fortunate enough to be joined by Ken Carfagno, a former mechanical engineer who started his own cleaning company in upstate New York, to discuss proper methods of disinfection—something we could all benefit from right now. Ken, who’s in the process of rebooting his business here in Philly, dropped some serious cleaning science to debunk common misconceptions. As it turns out, the overwhelming majority of us aren’t doing nearly enough when we try to disinfect our homes...
+Recently, we were fortunate enough to be joined by Ken Carfagno, a former mechanical engineer who started his own cleaning company in upstate New York, to discuss proper methods of disinfection—something we could all benefit from right now. Ken, who’s in the process of rebooting his business here in Philly, dropped some serious cleaning science to debunk common misconceptions. As it turns out, the overwhelming majority of us aren’t doing nearly enough when we try to disinfect our homes…
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
 
