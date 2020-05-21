@@ -15,6 +15,6 @@ youtube_code: LGgrL7CT0Ks
 
 {% include youtube.html %}
 
-*Real estate is once again an essential business in Pennsylvania.*
+<center><em> Real estate is once again an essential business in Pennsylvania. </em></center>
 
 We finally have some great news to share. Real estate in Pennsylvania is back, and agents and their clients can now view properties in personagain. If you've spent the last 60 days completing your home projects in anticipation of a sale, now might be the perfect time to get on the market. Inventory is low, buyer demand is incredibly high, and property values are holding steady.
