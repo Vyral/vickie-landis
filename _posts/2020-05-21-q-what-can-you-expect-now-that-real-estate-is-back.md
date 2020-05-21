@@ -16,6 +16,7 @@ youtube_code: LGgrL7CT0Ks
 {% include youtube.html %}
 
 <center><em>Real estate is once again an essential business in Pennsylvania. </em></center>
+&nbsp;
 
 <center>&nbsp;</center>
 
