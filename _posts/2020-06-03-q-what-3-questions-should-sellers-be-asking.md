@@ -15,7 +15,8 @@ youtube_code: N2MiaSAOkhc
 
 {% include youtube.html %}
 
-*Ask these questions before deciding to sell.*
+<center><em>Ask these questions before deciding to sell.</em></center>
+&nbsp;
 
 Here are some questions that every home sellers should be asking before listing their property for sale:
 
