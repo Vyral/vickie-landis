@@ -1,21 +1,22 @@
 ---
 layout: post
 title: 'Q: What 3 Questions Should Sellers Be Asking?'
-date: 2020-06-03 16:27:44
+date: 2020-06-03 16:27:00
 tags:
 excerpt: Ask these questions before deciding to sell.
 enclosure:
 pullquote: The best offer is not always the highest offer.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-29-20yt.jpg
 youtube_code: N2MiaSAOkhc
 ---
 
 {% include youtube.html %}
 
 <center><em>Ask these questions before deciding to sell.</em></center>
+
 &nbsp;
 
 Here are some questions that every home sellers should be asking before listing their property for sale:
