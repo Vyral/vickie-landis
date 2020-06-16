@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Figure Out the Net From Your Home Sale?'
-date: 2020-06-16 17:34:38
+date: 2020-06-16 17:34:00
 tags:
 excerpt: Here’s what to be sure to include when calculating your net amount.
 enclosure:
@@ -11,7 +11,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/vick.jpg
 youtube_code:
 ---
 
