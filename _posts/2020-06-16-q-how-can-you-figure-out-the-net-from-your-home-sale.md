@@ -17,7 +17,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-*Here’s what to be sure to include when calculating your net amount.*
+<center><em>Here’s what to be sure to include when calculating your net amount.</em></center>
+&nbsp;
 
 As a seller, it’s important to understand what your net walk-away dollar amount will be, and this can be figured out using current market data. The real estate agent you hire should be able to bring all the relevant information to the table.&nbsp;
 
