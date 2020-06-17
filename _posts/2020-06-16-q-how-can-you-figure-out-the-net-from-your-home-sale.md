@@ -29,7 +29,7 @@ In addition to state transfer fees that need to be paid, **you need to consider 
 
 You should also budget for any unpaid interest on your mortgage. Mortgage interest is paid in arrears, meaning that each monthly payment takes care of the interest that has accrued from the month prior. So, if you settle in the middle of the month, you’ll have a half-month’s worth of interest to bring to the table.&nbsp;
 
-Again, **the good news is that none of these expenses need to be surprises;** you can calculate all of these costs ahead of time so you know what you’ll have leftover to put towards a new home, retirement, or even a snazzy night out at the casino\!&nbsp;
+Again, **the good news is that none of these expenses need to be surprises;** you can calculate all of these costs ahead of time so you know what you’ll have leftover to put toward a new home, retirement, or even a snazzy night out at the casino\!&nbsp;
 
 Jokes aside, knowledge truly is power, and I’d even suggest that you consider the best- and worst-case scenarios. What is the most you could expect to get for your home based on market value and potential appraised value? What is the lowest you could expect to get? Once you have all of the numbers crunched for each scenario, you **plan for the worst and pray for the best.**
 
