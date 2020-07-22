@@ -16,6 +16,7 @@ youtube_code: E9ACmHmQ1C8
 {% include youtube.html %}
 
 <center><em>We have a simple request of you that could make a huge impact.</em></center>
+&nbsp;
 
 What would you do if you were trying to move your parents from the city or from a nursing home to get them closer to you so you can care for them as they age, and you couldn’t find a home suitable for their needs? What would you do if you finally found your dream job, but had to move to a new city where nothing is available? What would you do if you got married and couldn’t find a home for you to start your lives together? My team and I help our clients answer questions like these every single day.
 
