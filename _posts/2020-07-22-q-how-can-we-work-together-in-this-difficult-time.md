@@ -15,7 +15,7 @@ youtube_code: E9ACmHmQ1C8
 
 {% include youtube.html %}
 
-<center><em>We have a simple request of you that could make a huge impact.</em></center>
+<center><em>We have a simple request that could make a huge impact.</em></center>
 
 &nbsp;
 
@@ -33,4 +33,4 @@ As you go through your day, you may run into someone who is considering selling 
 
 It will only take you a moment. Shoot us an email, a text, or call us. In that moment, you could change someone's life forever.
 
-If you have any other questions for me about the real estate market or real estate in general, don’t hesitate to reach out via phone or email. Thanks in advance for your incredible support.
+If you have any other questions for me about the market or real estate in general, don’t hesitate to reach out via phone or email. Thanks in advance for your incredible support.
