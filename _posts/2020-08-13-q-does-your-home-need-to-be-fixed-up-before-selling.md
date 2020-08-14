@@ -21,7 +21,7 @@ youtube_code: dJ4vz3jG9zQ
 
 &nbsp;
 
-Whether or not you should fix up your home before selling it depends on your situation: what you need, what your goals are, and what you need to have happen upon sale.&nbsp;
+Whether or not you should fix up your home before selling it depends on your situation: what you need, what your goals are, and what you need to happen upon it's sale.&nbsp;
 
 {% include pullquote.html %}
 
