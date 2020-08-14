@@ -3,6 +3,7 @@ layout: post
 title: 'Q: Does Your Home Need to Be Fixed Up Before Selling?'
 date: 2020-08-13 21:24:00
 tags:
+  - Home Seller Tips
 excerpt: Here’s how to tell whether you should fix up your home before selling.
 enclosure:
 pullquote: >-
