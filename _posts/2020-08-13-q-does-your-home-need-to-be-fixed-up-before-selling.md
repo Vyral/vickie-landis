@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Q: Does Your Home Need to Be Fixed Up Before Selling?'
-date: 2020-08-13 21:24:06
+date: 2020-08-13 21:24:00
 tags:
 excerpt: Here’s how to tell whether you should fix up your home before selling.
 enclosure:
 pullquote: >-
-  The good news is, all of them can be answered during an initial consultation
-  with a knowledgeable real estate professional.
+  All of these questions can be answered during an initial consultation with a
+  knowledgeable real estate professional.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,7 +17,8 @@ youtube_code: dJ4vz3jG9zQ
 
 {% include youtube.html %}
 
-<center><em>Here’s how to tell whether you should fix up your home before selling.</em></center>
+<center><em>Here&rsquo;s how to tell whether you should fix up your home before selling.</em></center>
+
 &nbsp;
 
 Whether or not you should fix up your home before selling it depends on your situation: what you need, what your goals are, and what you need to have happen upon sale.&nbsp;
