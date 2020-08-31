@@ -15,7 +15,8 @@ youtube_code: UC48503g38M
 
 {% include youtube.html %}
 
-*There are seven tips to remember to maximize your home sale.*
+<center><em>There are seven tips to remember to maximize your home sale.</em></center>
+&nbsp;
 
 If you’re selling your home, you might be asking yourself: How much do I really need to spend when listing it for sale? Today I’ll share the seven simplest, most cost-effective things you can do to maximize your sale. Fixing up a property takes time, skill, and money. If you don’t have time and/or skill, odds are that you’ll need more money. Typically, pre-sale improvements only make sense when they net you more money or cause the buyer to pick your home over the competition.&nbsp;
 
