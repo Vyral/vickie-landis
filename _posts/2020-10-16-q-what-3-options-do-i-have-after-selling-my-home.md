@@ -16,7 +16,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-*Here are three ways to juggle your home sale and your new home purchase.*
+<center><em>Here are three ways to juggle your home sale and your new home purchase.</em></center>
 
 &nbsp;
 
