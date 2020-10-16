@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: What 3 Options Do I Have After Selling My Home?'
-date: 2020-10-16 17:09:11
+date: 2020-10-16 17:09:00
 tags:
   - Home Seller Tips
 excerpt: Here are three ways to juggle your home sale and your new home purchase.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Vickie+Landis-Rentsel/VickieLandis_DontBeHomeless.mp4
 pullquote: 'As a seller in this market, you can be picky.'
 enclosure_type: video/mp4
 enclosure_time:
