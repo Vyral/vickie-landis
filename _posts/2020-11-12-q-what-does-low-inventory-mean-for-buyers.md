@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does Low Inventory Mean for Buyers?'
-date: 2020-11-12 19:52:44
+date: 2020-11-12 19:52:00
 tags:
   - Market Update
   - Real Estate
@@ -15,10 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-10-20yt.jpg
-youtube_code:
+youtube_code: U0_v7Z4jnGs
 ---
 
 {% include youtube.html %}
+
+*It’s hard to convey how crazy this fall market is, but here’s our best shot. *
 
 By now, it’s likely no surprise to hear that inventory levels in our real estate market are low—the media have been talking about it for most of the year. That said, things are crazier than ever right now, and it’s hard for those outside of the industry to truly understand just how low inventory is.&nbsp;
 
