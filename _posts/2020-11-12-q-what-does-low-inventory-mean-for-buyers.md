@@ -20,8 +20,10 @@ youtube_code: U0_v7Z4jnGs
 
 {% include youtube.html %}
 
-<center><em>It’s hard to convey how crazy this fall market is, but here’s our best shot.</em></center>
-&nbsp;
+<center><em>It&rsquo;s hard to convey how crazy this fall market is, but here&rsquo;s our best shot.</em></center>
+
+<center>&nbsp;</center>
+
 By now, it’s likely no surprise to hear that inventory levels in our real estate market are low—the media have been talking about it for most of the year. That said, things are crazier than ever right now, and it’s hard for those outside of the industry to truly understand just how low inventory is.&nbsp;
 
 Let’s back up a bit and review how experts determine whether we’re in a buyer’s or a seller’s market. If we were to have six months’ worth of inventory, we’d find ourselves in a balanced market. However, **any market that has less than six months’ worth of inventory favors sellers, while any market with more than six months’ worth favors buyers.** Based on the latest market stats from October, we’re hovering 1.5 months’ worth of inventory.&nbsp;
