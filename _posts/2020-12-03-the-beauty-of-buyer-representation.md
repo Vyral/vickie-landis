@@ -17,7 +17,8 @@ youtube_code: 9UDopZ1ZoJo
 
 {% include youtube.html %}
 
-*Here’s why every homebuyer should seek professional representation. *
+<center><em>Here’s why every homebuyer should seek professional representation.</em></center>
+&nbsp;
 
 With the market moving so fast and being so low on inventory, buyers are scrambling to find properties. When you’re out and about and see a house for sale, you may be tempted to pick up the phone and make a call right away to the number listed on the sign. Be mindful, though, that you’ll be contacting a listing agent who is under contract with that seller and has a fiduciary responsibility to represent their interests. **By simply telling the listing agent how anxious you are to get into that property, you’re already disclosing too much information** that could work against you.&nbsp;
 
