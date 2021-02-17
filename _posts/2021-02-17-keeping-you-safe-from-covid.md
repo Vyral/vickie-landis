@@ -18,7 +18,8 @@ youtube_code: I8Y__VwsMdI
 
 {% include youtube.html %}
 
-*Here’s a rundown of how we’re protecting you from COVID.*
+<center><em>Here’s a rundown of how we’re protecting you from COVID.</em></center>
+&nbsp;
 
 It seems as though we’ve begun to ease out of the worst of the pandemic, and hopefully we’re on the path back to relative normalcy as more vaccines roll out. In the meantime, however, we still need to take a lot of precautions. As Realtors, we owe a certain duty to our clients and the owners of homes we enter for showings. Today I want to talk about the kinds of precautions Realtors are taking to ensure everyone’s safety.
 
