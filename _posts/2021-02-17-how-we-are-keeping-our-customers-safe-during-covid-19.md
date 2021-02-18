@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Are We Preparing For COVID?
+title: How We Are Keeping Our Customers Safe During COVID-19
 date: 2021-02-17 00:00:00
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: I8Y__VwsMdI
 
 &nbsp;
 
-It seems as though we've begun to ease out of the worst of the pandemic, and as more vaccines roll out, we're hopefully on the path back to relative normalcy. In the meantime, however, we still need to take a lot of precautions. As Realtors, we owe a certain duty to our clients and the owners of homes we enter for showings. Today I want to talk about the kinds of precautions Realtors are taking to ensure everyone’s safety.
+It seems as though we've begun to ease out of the worst of the pandemic, and as more vaccines roll out, we're hopefully on the path back to relative normalcy. In the meantime, however, we still need to take a lot of precautions. As Realtors, we owe a certain duty to our clients and the owners of homes we enter for showings. Today we'll discuss the kinds of precautions we&nbsp;**at The Vickie Landis-Rentsel Team&nbsp;**are taking to ensure everyone's safety.
 
 For buyers, **we always take a verbal assessment to make sure they’re not sick or displaying any symptoms**, and we also have them sign a document that verifies as much. If they have had symptoms, then we wouldn’t take them into anyone’s home for showings, but if they haven’t, then we can proceed as planned.&nbsp;
 
